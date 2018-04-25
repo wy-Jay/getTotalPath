@@ -36,7 +36,7 @@ let data = [
   }
 ]
 
-var result = getTotalPath(data,101001)
+var result = getTotalPath(data,101001,classCode)
 
 // 结果
 '1,101,101001'
